@@ -7,6 +7,7 @@
             <div class="card">
                 <div class="card-header">Dashboard</div>
 
+                <h1>We are learning AWS !! </h1>
                 <div class="card-body">
                     @if (session('status'))
                         <div class="alert alert-success" role="alert">
